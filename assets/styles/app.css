@@ -1,0 +1,35 @@
+@import '~bootstrap';
+@import '~@fortawesome/fontawesome-free/css/all.css';
+@import '~@fontsource/roboto-condensed';
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtJQUNJLG1DQUFtQztBQUN2QyxDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vYXNzZXRzL3N0eWxlcy9hcHAuY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICAgIGJhY2tncm91bmQtY29sb3I6IG1hcm9vbiAhaW1wb3J0YW50O1xufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
+body {
+  background-color: #17242C;
+  color: #fff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.song-list i {
+  margin-top: 7px;
+}
+
+.song-list a {
+  color: #fff;
+}
+
+.song-details {
+  background-color: #222F36;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.genre-list li {
+  margin-right: 5px;
+}
+
+.mixed-vinyl-container {
+  background: rgb(23,36,44);
+  background: linear-gradient(180deg, rgba(23,36,44,1) 1%, rgba(34,47,54,1) 97%);
+  border-radius: 5px;
+
+}
